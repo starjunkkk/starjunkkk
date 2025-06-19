@@ -30,50 +30,35 @@
   
 </div>
 
-📈 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=starjunkkk&show_icons=true&theme=radical" alt="starjunkkk stats" />
-</p>
+<table>
+  <tr>
+    <td align="left" width="60%">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starjunkkk&layout=compact&theme=tokyonight" alt="starjunkkk languages" />
-</p>
-
----
-
-🚀 I'm a **technology enthusiast** passionate about:
-- 🌐 **Embedded Systems** with Arduino, ESP32 (C/C++)
-- 📱 **Mobile Development** with Android Studio & Kotlin (Jetpack Compose)
-- 🔬 Exploring **IoT**, automation, and AI integration
-
----
+🚀 I'm a <strong>technology enthusiast</strong> passionate about:
+- 🌐 <strong>Embedded Systems</strong> with Arduino, ESP32 (C/C++)
+- 📱 <strong>Mobile Development</strong> with Android Studio & Kotlin (Jetpack Compose)
+- 🔬 Exploring <strong>IoT</strong>, automation, and AI integration
 
 🧠 Currently learning:
-- 🔧 Real-time embedded systems
-- 🧠 Machine learning for IoT
-- 📊 Firebase & Cloud functions for mobile
-- Jetpack Compose
-
----
-
-🛠️ Projects I built:
-- 💡 
-- 🧘 
-- 🔐 
-
-<!--
----
-📫 Reach me here:
-- 🌐 Website/Portfolio:
-- 💬 Telegram:
-- 📧 Email:[hassannashr@gmail.com](mailto:hassannashr@gmail.com)
----
--->
----
+- 🔧 Real-time embedded systems  
+- 🧠 Machine learning for IoT  
+- 📊 Firebase & Cloud functions for mobile  
+- 🧪 Jetpack Compose  
 
 🎯 Fun facts:
-- 🧩 I love solving problems through code
-- ⚡ I'm always up for tech collaborations and open-source work
+- 🧩 I love solving problems through code  
+- ⚡ I'm always up for tech collaborations and open-source work  
 - 🎮 Gaming and hardware tinkering are my weekend escape!
 
----
+📫 Reach me:  
+📧 <a href="mailto:hassannashr@gmail.com">hassannashr@gmail.com</a>
+
+  </td>
+  <td align="right" width="40%">
+    <img src="https://github-readme-stats.vercel.app/api?username=starjunkkk&show_icons=true&theme=radical" alt="starjunkkk stats" />
+    <br /><br />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starjunkkk&layout=compact&theme=tokyonight" alt="starjunkkk languages" />
+  </td>
+</tr>
+</table>
+
