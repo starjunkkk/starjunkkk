@@ -34,7 +34,7 @@
 📫 Reach me here:
 - 🌐 Website/Portfolio:
 - 💬 Telegram:
-- 📧 Email:[hassannashr@gmail.com](hassannashr@gmail.com)
+- 📧 Email:[hassannashr@gmail.com](mailto:hassannashr@gmail.com)
 ---
 
 📈 GitHub Stats:
