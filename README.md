@@ -30,35 +30,42 @@
   
 </div>
 
+
 <table>
   <tr>
-    <td align="left" width="60%">
+    <td width="60%" align="left">
 
-🚀 I'm a <strong>technology enthusiast</strong> passionate about:
-- 🌐 <strong>Embedded Systems</strong> with Arduino, ESP32 (C/C++)
-- 📱 <strong>Mobile Development</strong> with Android Studio & Kotlin (Jetpack Compose)
-- 🔬 Exploring <strong>IoT</strong>, automation, and AI integration
+<h3>🚀 I'm a <strong>technology enthusiast</strong> passionate about:</h3>
+<p>
+🌐 <strong>Embedded Systems</strong> with Arduino, ESP32 (C/C++)<br>
+📱 <strong>Mobile Development</strong> with Android Studio & Kotlin (Jetpack Compose)<br>
+🔬 Exploring <strong>IoT</strong>, automation, and AI integration
+</p>
 
-🧠 Currently learning:
-- 🔧 Real-time embedded systems  
-- 🧠 Machine learning for IoT  
-- 📊 Firebase & Cloud functions for mobile  
-- 🧪 Jetpack Compose  
+<h3>🧠 Currently learning:</h3>
+<p>
+🔧 Real-time embedded systems<br>
+🧠 Machine learning for IoT<br>
+📊 Firebase & Cloud functions for mobile<br>
+🧪 Jetpack Compose
+</p>
 
-🎯 Fun facts:
-- 🧩 I love solving problems through code  
-- ⚡ I'm always up for tech collaborations and open-source work  
-- 🎮 Gaming and hardware tinkering are my weekend escape!
+<h3>🎯 Fun facts:</h3>
+<p>
+🧩 I love solving problems through code<br>
+⚡ I'm always up for tech collaborations and open-source work<br>
+🎮 Gaming and hardware tinkering are my weekend escape!
+</p>
 
-📫 Reach me:  
+<h3>📫 Reach me:</h3>
+<p>
 📧 <a href="mailto:hassannashr@gmail.com">hassannashr@gmail.com</a>
+</p>
 
-  </td>
-  <td align="right" width="40%">
-    <img src="https://github-readme-stats.vercel.app/api?username=starjunkkk&show_icons=true&theme=radical" alt="starjunkkk stats" />
-    <br /><br />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starjunkkk&layout=compact&theme=tokyonight" alt="starjunkkk languages" />
-  </td>
-</tr>
+</td>
+<td width="40%" align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=starjunkkk&show_icons=true&theme=radical" width="100%" alt="GitHub Stats"/><br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starjunkkk&layout=compact&theme=tokyonight" width="100%" alt="Top Languages"/>
+</td>
+  </tr>
 </table>
-
