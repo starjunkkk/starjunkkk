@@ -3,10 +3,6 @@
 <h1 align="center">Hi 👋, I'm Hasan</h1>
 <h3 align="center">aka starjunkkk — Developer | IoT Builder | Android Explorer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=starjunkkk&label=Profile%20views&color=0e75b6&style=flat" alt="starjunkkk" />
-</p>
-
 <div align="center"> 
   <a href="mailto:hassannashr@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
