@@ -57,11 +57,6 @@
 🎮 Gaming and hardware tinkering are my weekend escape!
 </p>
 
-<h3>📫 Reach me:</h3>
-<p>
-📧 <a href="mailto:hassannashr@gmail.com">hassannashr@gmail.com</a>
-</p>
-
 </td>
 <td width="40%" align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=starjunkkk&show_icons=true&theme=radical" width="100%" alt="GitHub Stats"/><br><br>
