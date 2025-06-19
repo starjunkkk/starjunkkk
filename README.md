@@ -20,13 +20,24 @@
   <a href="">
   <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
   </a>
+  <!-->
   <a href="https://www.youtube.com/@shandregaz">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
+  
   <a href="https://open.spotify.com/user/31ztu4wwzspcd4ard22tjlapp5p4">
   <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
   
 </div>
+
+📈 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=starjunkkk&show_icons=true&theme=radical" alt="starjunkkk stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starjunkkk&layout=compact&theme=tokyonight" alt="starjunkkk languages" />
+</p>
 
 ---
 
@@ -50,23 +61,14 @@
 - 🧘 
 - 🔐 
 
+<!--
 ---
-
 📫 Reach me here:
 - 🌐 Website/Portfolio:
 - 💬 Telegram:
 - 📧 Email:[hassannashr@gmail.com](mailto:hassannashr@gmail.com)
 ---
-
-📈 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=starjunkkk&show_icons=true&theme=radical" alt="starjunkkk stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starjunkkk&layout=compact&theme=tokyonight" alt="starjunkkk languages" />
-</p>
-
+-->
 ---
 
 🎯 Fun facts:
