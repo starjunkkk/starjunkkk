@@ -7,6 +7,27 @@
   <img src="https://komarev.com/ghpvc/?username=starjunkkk&label=Profile%20views&color=0e75b6&style=flat" alt="starjunkkk" />
 </p>
 
+<div align="center"> 
+  <a href="mailto:hassannashr@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="www.linkedin.com/in/rafi-eka-pramatya-09b157319">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.instagram.com/hiizbaa/?__pwa=1">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="">
+  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
+  </a>
+  <a href="https://www.youtube.com/@shandregaz">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+  <a href="https://open.spotify.com/user/31ztu4wwzspcd4ard22tjlapp5p4">
+  <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
+  
+</div>
+
 ---
 
 🚀 I'm a **technology enthusiast** passionate about:
