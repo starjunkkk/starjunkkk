@@ -20,6 +20,7 @@
 - 🔧 Real-time embedded systems
 - 🧠 Machine learning for IoT
 - 📊 Firebase & Cloud functions for mobile
+- Jetpack Compose
 
 ---
 
@@ -33,8 +34,7 @@
 📫 Reach me here:
 - 🌐 Website/Portfolio:
 - 💬 Telegram:
-- 📧 Email:
-
+- 📧 Email:[hassannashr@gmail.com](hassannashr@gmail.com)
 ---
 
 📈 GitHub Stats:
