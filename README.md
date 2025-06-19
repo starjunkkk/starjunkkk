@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hasan</h1>
-<h3 align="center">aka starjunkk — Developer | IoT Builder | Android Explorer</h3>
+<h3 align="center">aka starjunkkk — Developer | IoT Builder | Android Explorer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=starjunkk&label=Profile%20views&color=0e75b6&style=flat" alt="starjunkk" />
+  <img src="https://komarev.com/ghpvc/?username=starjunkkk&label=Profile%20views&color=0e75b6&style=flat" alt="starjunkkk" />
 </p>
 
 ---
@@ -22,26 +22,26 @@
 ---
 
 🛠️ Projects I built:
-- 💡 [Smart Lamp with ESP32 + Blynk](https://github.com/starjunkk/smart-lamp)
-- 🧘 [FitMate – Health & Fitness App](https://github.com/starjunkk/fitmate)
-- 🔐 [Firebase Auth Starter for Android](https://github.com/starjunkk/firebase-auth-template)
+- 💡 
+- 🧘 
+- 🔐 
 
 ---
 
 📫 Reach me here:
-- 🌐 Website/Portfolio: [starjunkk.dev](https://starjunkk.dev) *(if available)*
-- 💬 Telegram: [@starjunkk](https://t.me/starjunkk)
-- 📧 Email: hasan.devmail@gmail.com
+- 🌐 Website/Portfolio:
+- 💬 Telegram:
+- 📧 Email:
 
 ---
 
 📈 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=starjunkk&show_icons=true&theme=radical" alt="starjunkk stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=starjunkkk&show_icons=true&theme=radical" alt="starjunkkk stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starjunkk&layout=compact&theme=tokyonight" alt="starjunkk languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starjunkkk&layout=compact&theme=tokyonight" alt="starjunkkk languages" />
 </p>
 
 ---
